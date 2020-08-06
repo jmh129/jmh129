@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm currently attending the Georgia tech Full-Stack Web De
 
 **What I'm Upto:**
 
-- Currently attending the Georgia Tech Full-Stack Web Development Program.
-- Always looking for new things to learn.
+- 🌱 Currently attending the Georgia Tech Full-Stack Web Development Program.
+-  🔭 Always looking for new things to learn.
 
 **Lets Connect:**
 
